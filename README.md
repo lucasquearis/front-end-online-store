@@ -13,9 +13,9 @@ Primeiro projeto em grupo utilizando React aqui na [Trybe](https://www.betrybe.c
 
 ## Participantes do Grupo
 
-[Julio Barros](https://github.com/juliobarros-dev)
-[Luis Fernando Fonseca](https://github.com/luiszeh)
-[Thales Daniel](https://github.com/Thales-Daniel)
+[Julio Barros](https://github.com/juliobarros-dev)\
+[Luis Fernando Fonseca](https://github.com/luiszeh)\
+[Thales Daniel](https://github.com/Thales-Daniel)\
 [Dayvid Ruan](https://github.com/Dayvid-Ruan)
 
 ### Caso queira testar e rodar o projeto
